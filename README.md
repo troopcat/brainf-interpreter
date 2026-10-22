@@ -1,2 +1,2 @@
-# brainfuck-interpreter
-A tiny brainfuck interpreter written in c.
+# brainf-interpreter
+A tiny brainf interpreter written in c.
