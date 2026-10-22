@@ -36,7 +36,7 @@ int main(int argc, char **argv){
     for(int i = 0;i < size; i++){
         char c = content[i];
 
-        if(c == *'>'){tape_index++;}
+        if(c == '>'){tape_index++;}
 
         else if(c == '<'){tape_index--;}
 
